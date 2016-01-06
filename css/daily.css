@@ -1,0 +1,29 @@
+#new-daily {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.action {
+    margin-top: 7px;
+}
+
+.article {
+    margin-bottom: 32px;
+}
+
+.date {
+    font-size: large;
+    font-weight: bold;
+}
+
+.weather {
+    float: right;
+}
+
+.action {
+    height: 35px;
+}
+
+.action input {
+    float: right;
+}

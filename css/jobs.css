@@ -1,0 +1,72 @@
+#content {
+    width: 80%;
+}
+
+#job-done {
+    margin-top: 4px;
+    float: right;
+}
+#job-type {
+    clear: both;
+    margin-top: 4px;
+    float: right;
+}
+#new-job {
+    float: left;
+}
+
+#jobs {
+margin-top: 10px;
+float: left;
+width: 100%;
+}
+
+.jobs-option {
+width: 100%;
+margin-bottom: 45px;
+}
+
+.jobs-option li{
+float: left;
+padding-right: 20px;
+}
+
+.job {
+margin-bottom: 24px;
+border: 1px solid;
+height: 200px;
+}
+
+.job-top {
+height: 35px;
+margin-top: 5px;
+border: 1px dotted;
+}
+
+.startDate {
+float: left;
+line-height: 35px;
+}
+
+.types {
+float: right;
+line-height: 35px;
+}
+
+
+.detail {
+width: 80%;
+height:105px;
+margin-top: 5px;
+font-size: 19px;
+}
+
+.job-bottom {
+height: 35px;
+margin-top: 5px;
+}
+
+.finish {
+float: right;
+line-height: 35px;
+}
